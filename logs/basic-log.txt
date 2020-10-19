@@ -1,0 +1,252 @@
+[2020-10-15 12:18:22.257] [basic_logger] [info] HERE
+[2020-10-15 12:21:28.886] [basic_logger] [info] In Component Constructor
+[2020-10-15 12:21:28.886] [basic_logger] [info] In AppComponent Constructor
+[2020-10-15 12:21:28.886] [basic_logger] [info] In Component Constructor
+[2020-10-15 12:21:28.886] [basic_logger] [info] In AppComponent Constructor
+[2020-10-15 12:21:30.306] [basic_logger] [info] In AppComponent Destructor
+[2020-10-15 12:21:30.306] [basic_logger] [info] In Component Destructor
+[2020-10-15 12:21:30.306] [basic_logger] [info] In Component Destructor
+[2020-10-15 12:21:30.306] [basic_logger] [info] In Component Destructor
+[2020-10-15 12:22:27.029] [basic_logger] [info] In Component Constructor
+[2020-10-15 12:22:27.029] [basic_logger] [info] In AppComponent Constructor
+[2020-10-15 12:22:27.029] [basic_logger] [info] In Component Constructor
+[2020-10-15 12:22:27.029] [basic_logger] [info] In HeaderComponent Constructor
+[2020-10-15 12:22:27.852] [basic_logger] [info] In AppComponent Destructor
+[2020-10-15 12:22:27.852] [basic_logger] [info] In Component Destructor
+[2020-10-15 12:22:27.852] [basic_logger] [info] In Component Destructor
+[2020-10-15 12:22:27.852] [basic_logger] [info] In Component Destructor
+[2020-10-15 12:30:30.456] [basic_logger] [debug] In Component Constructor
+[2020-10-15 12:30:30.456] [basic_logger] [debug] In AppComponent Constructor
+[2020-10-15 12:30:30.456] [basic_logger] [debug] In Component Constructor
+[2020-10-15 12:30:30.456] [basic_logger] [debug] In HeaderComponent Constructor
+[2020-10-15 12:30:32.124] [basic_logger] [debug] In AppComponent Destructor
+[2020-10-15 12:30:32.124] [basic_logger] [debug] In Component Destructor
+[2020-10-15 12:30:32.124] [basic_logger] [debug] In Component Destructor
+[2020-10-15 12:30:32.124] [basic_logger] [debug] In Component Destructor
+[2020-10-15 12:30:37.551] [basic_logger] [debug] In Component Constructor
+[2020-10-15 12:30:37.552] [basic_logger] [debug] In AppComponent Constructor
+[2020-10-15 12:30:37.552] [basic_logger] [debug] In Component Constructor
+[2020-10-15 12:30:37.552] [basic_logger] [debug] In HeaderComponent Constructor
+[2020-10-15 12:30:38.301] [basic_logger] [debug] In AppComponent Destructor
+[2020-10-15 12:30:38.301] [basic_logger] [debug] In Component Destructor
+[2020-10-15 12:30:38.301] [basic_logger] [debug] In Component Destructor
+[2020-10-15 12:30:38.301] [basic_logger] [debug] In Component Destructor
+[2020-10-15 13:20:42.039] [basic_logger] [debug] In Component Constructor
+[2020-10-15 13:20:42.039] [basic_logger] [debug] In AppComponent Constructor
+[2020-10-15 13:20:42.039] [basic_logger] [debug] In Component Constructor
+[2020-10-15 13:20:42.039] [basic_logger] [debug] In HeaderComponent Constructor
+[2020-10-15 13:20:57.528] [basic_logger] [debug] In AppComponent Destructor
+[2020-10-15 13:20:57.528] [basic_logger] [debug] In Component Destructor
+[2020-10-15 13:20:57.528] [basic_logger] [debug] In Component Destructor
+[2020-10-15 13:20:57.528] [basic_logger] [debug] In Component Destructor
+[2020-10-15 13:21:49.630] [basic_logger] [debug] In Component Constructor
+[2020-10-15 13:21:49.631] [basic_logger] [debug] In AppComponent Constructor
+[2020-10-15 13:21:49.631] [basic_logger] [debug] In Component Constructor
+[2020-10-15 13:21:49.631] [basic_logger] [debug] In HeaderComponent Constructor
+[2020-10-15 13:21:52.435] [basic_logger] [debug] In AppComponent Destructor
+[2020-10-15 13:21:52.435] [basic_logger] [debug] In Component Destructor
+[2020-10-15 13:21:52.435] [basic_logger] [debug] In Component Destructor
+[2020-10-15 13:21:52.435] [basic_logger] [debug] In Component Destructor
+[2020-10-15 13:21:54.707] [basic_logger] [debug] In Component Constructor
+[2020-10-15 13:21:54.708] [basic_logger] [debug] In AppComponent Constructor
+[2020-10-15 13:21:54.708] [basic_logger] [debug] In Component Constructor
+[2020-10-15 13:21:54.708] [basic_logger] [debug] In HeaderComponent Constructor
+[2020-10-15 13:22:59.604] [basic_logger] [debug] In AppComponent Destructor
+[2020-10-15 13:22:59.604] [basic_logger] [debug] In Component Destructor
+[2020-10-15 13:22:59.604] [basic_logger] [debug] In Component Destructor
+[2020-10-15 13:22:59.604] [basic_logger] [debug] In Component Destructor
+[2020-10-15 15:26:13.894] [basic_logger] [debug] In main()
+[2020-10-15 15:26:13.894] [basic_logger] [debug] In Runner.run()
+[2020-10-15 15:26:13.894] [basic_logger] [debug] In Component Constructor
+[2020-10-15 15:26:13.895] [basic_logger] [debug] In AppComponent Constructor
+[2020-10-15 15:26:13.895] [basic_logger] [debug] In Component Constructor
+[2020-10-15 15:26:13.895] [basic_logger] [debug] In HeaderComponent Constructor
+[2020-10-15 15:26:16.351] [basic_logger] [debug] In AppComponent Destructor
+[2020-10-15 15:26:16.351] [basic_logger] [debug] In Component Destructor
+[2020-10-15 15:26:16.351] [basic_logger] [debug] In Component Destructor
+[2020-10-15 15:26:16.351] [basic_logger] [debug] In Component Destructor
+[2020-10-15 15:28:45.513] [basic_logger] [debug] In main()
+[2020-10-15 15:28:45.513] [basic_logger] [debug] In Runner.run()
+[2020-10-15 15:28:45.514] [basic_logger] [debug] In Component Constructor
+[2020-10-15 15:28:45.514] [basic_logger] [debug] In AppComponent Constructor
+[2020-10-15 15:28:45.514] [basic_logger] [debug] In Component Constructor
+[2020-10-15 15:28:45.514] [basic_logger] [debug] In HeaderComponent Constructor
+[2020-10-15 15:28:46.011] [basic_logger] [debug] In AppComponent Destructor
+[2020-10-15 15:28:46.011] [basic_logger] [debug] In Component Destructor
+[2020-10-15 15:28:46.011] [basic_logger] [debug] In Component Destructor
+[2020-10-15 15:28:46.011] [basic_logger] [debug] In Component Destructor
+[2020-10-15 15:36:51.068] [basic_logger] [debug] In main()
+[2020-10-15 15:36:51.068] [basic_logger] [debug] In Runner.run()
+[2020-10-15 15:36:51.068] [basic_logger] [debug] In Component Constructor
+[2020-10-15 15:36:51.068] [basic_logger] [debug] In AppComponent Constructor
+[2020-10-15 15:36:51.068] [basic_logger] [debug] In Component Constructor
+[2020-10-15 15:36:51.068] [basic_logger] [debug] In HeaderComponent Constructor
+[2020-10-15 15:36:52.022] [basic_logger] [debug] In AppComponent Destructor
+[2020-10-15 15:36:52.022] [basic_logger] [debug] In Component Destructor
+[2020-10-15 15:36:52.022] [basic_logger] [debug] In Component.destroy()
+[2020-10-15 15:36:52.022] [basic_logger] [debug] In Component Destructor
+[2020-10-15 15:36:52.022] [basic_logger] [debug] In Component.destroy()
+[2020-10-15 15:36:52.022] [basic_logger] [debug] In Component Destructor
+[2020-10-15 15:36:52.022] [basic_logger] [debug] In Component.destroy()
+[2020-10-15 15:40:40.176] [basic_logger] [debug] In main()
+[2020-10-15 15:40:40.177] [basic_logger] [debug] In Runner.run()
+[2020-10-15 15:40:40.177] [basic_logger] [debug] In Component Constructor
+[2020-10-15 15:40:40.177] [basic_logger] [debug] In AppComponent Constructor
+[2020-10-15 15:40:40.177] [basic_logger] [debug] In Component Constructor
+[2020-10-15 15:40:40.177] [basic_logger] [debug] In HeaderComponent Constructor
+[2020-10-15 15:40:40.960] [basic_logger] [debug] In Component Destructor
+[2020-10-15 15:40:40.960] [basic_logger] [debug] In Component.destroy()
+[2020-10-15 15:41:04.983] [basic_logger] [debug] In main()
+[2020-10-15 15:41:04.983] [basic_logger] [debug] In Runner.run()
+[2020-10-15 15:41:04.983] [basic_logger] [debug] In Component Constructor
+[2020-10-15 15:41:04.984] [basic_logger] [debug] In AppComponent Constructor
+[2020-10-15 15:41:04.984] [basic_logger] [debug] In Component Constructor
+[2020-10-15 15:41:04.984] [basic_logger] [debug] In HeaderComponent Constructor
+[2020-10-15 15:41:05.804] [basic_logger] [debug] In Component Destructor
+[2020-10-15 15:41:05.804] [basic_logger] [debug] In Component.destroy()
+[2020-10-15 15:45:27.115] [basic_logger] [debug] In main()
+[2020-10-15 15:45:27.115] [basic_logger] [debug] In Runner.run()
+[2020-10-15 15:45:27.117] [basic_logger] [debug] In Component Constructor
+[2020-10-15 15:45:27.117] [basic_logger] [debug] In AppComponent Constructor
+[2020-10-15 15:45:27.117] [basic_logger] [debug] In Component Constructor
+[2020-10-15 15:45:27.118] [basic_logger] [debug] In HeaderComponent Constructor
+[2020-10-15 15:45:27.905] [basic_logger] [debug] In Component Destructor
+[2020-10-15 15:45:27.905] [basic_logger] [debug] In Component.destroy()
+[2020-10-15 15:46:34.503] [basic_logger] [debug] In main()
+[2020-10-15 15:46:34.503] [basic_logger] [debug] In Runner.run()
+[2020-10-15 15:46:34.504] [basic_logger] [debug] In Component Constructor
+[2020-10-15 15:46:34.505] [basic_logger] [debug] In AppComponent Constructor
+[2020-10-15 15:46:34.505] [basic_logger] [debug] In Component Constructor
+[2020-10-15 15:46:34.505] [basic_logger] [debug] In HeaderComponent Constructor
+[2020-10-15 15:46:35.143] [basic_logger] [debug] In Component Destructor
+[2020-10-15 15:46:35.143] [basic_logger] [debug] In Component.destroy()
+[2020-10-15 15:51:13.697] [basic_logger] [debug] In main()
+[2020-10-15 15:51:13.697] [basic_logger] [debug] In Runner.run()
+[2020-10-15 15:51:13.699] [basic_logger] [debug] In Component Constructor
+[2020-10-15 15:51:13.699] [basic_logger] [debug] In AppComponent Constructor
+[2020-10-15 15:51:13.699] [basic_logger] [debug] In Component Constructor
+[2020-10-15 15:51:13.699] [basic_logger] [debug] In HeaderComponent Constructor
+[2020-10-15 15:51:14.800] [basic_logger] [debug] In AppComponent Destructor
+[2020-10-15 15:51:14.800] [basic_logger] [debug] In Component Destructor
+[2020-10-15 15:51:14.800] [basic_logger] [debug] In Component Destructor
+[2020-10-15 15:51:14.800] [basic_logger] [debug] In Component Destructor
+[2020-10-15 15:51:18.168] [basic_logger] [debug] In main()
+[2020-10-15 15:51:18.168] [basic_logger] [debug] In Runner.run()
+[2020-10-15 15:51:18.169] [basic_logger] [debug] In Component Constructor
+[2020-10-15 15:51:18.169] [basic_logger] [debug] In AppComponent Constructor
+[2020-10-15 15:51:18.169] [basic_logger] [debug] In Component Constructor
+[2020-10-15 15:51:18.169] [basic_logger] [debug] In HeaderComponent Constructor
+[2020-10-15 15:51:19.003] [basic_logger] [debug] In AppComponent Destructor
+[2020-10-15 15:51:19.003] [basic_logger] [debug] In Component Destructor
+[2020-10-15 15:51:19.003] [basic_logger] [debug] In Component Destructor
+[2020-10-15 15:51:19.003] [basic_logger] [debug] In Component Destructor
+[2020-10-15 16:01:39.742] [basic_logger] [debug] In main()
+[2020-10-15 16:01:39.743] [basic_logger] [debug] In Runner.run()
+[2020-10-15 16:01:39.743] [basic_logger] [debug] In Component Constructor
+[2020-10-15 16:01:39.744] [basic_logger] [debug] In AppComponent Constructor
+[2020-10-15 16:01:39.744] [basic_logger] [debug] In Component Constructor
+[2020-10-15 16:01:39.744] [basic_logger] [debug] In HeaderComponent Constructor
+[2020-10-15 16:01:40.488] [basic_logger] [debug] In AppComponent Destructor
+[2020-10-15 16:01:40.488] [basic_logger] [debug] In Component Destructor
+[2020-10-15 16:01:40.488] [basic_logger] [debug] In Component Destructor
+[2020-10-15 16:01:40.489] [basic_logger] [debug] In Component Destructor
+[2020-10-15 16:01:44.118] [basic_logger] [debug] In main()
+[2020-10-15 16:01:44.118] [basic_logger] [debug] In Runner.run()
+[2020-10-15 16:01:44.119] [basic_logger] [debug] In Component Constructor
+[2020-10-15 16:01:44.119] [basic_logger] [debug] In AppComponent Constructor
+[2020-10-15 16:01:44.119] [basic_logger] [debug] In Component Constructor
+[2020-10-15 16:01:44.119] [basic_logger] [debug] In HeaderComponent Constructor
+[2020-10-15 16:01:44.918] [basic_logger] [debug] In AppComponent Destructor
+[2020-10-15 16:01:44.919] [basic_logger] [debug] In Component Destructor
+[2020-10-15 16:01:44.919] [basic_logger] [debug] In Component Destructor
+[2020-10-15 16:01:44.919] [basic_logger] [debug] In Component Destructor
+[2020-10-15 16:03:10.193] [basic_logger] [debug] In main()
+[2020-10-15 16:03:10.193] [basic_logger] [debug] In Runner.run()
+[2020-10-15 16:03:10.194] [basic_logger] [debug] In Component Constructor
+[2020-10-15 16:03:10.194] [basic_logger] [debug] In AppComponent Constructor
+[2020-10-15 16:03:10.194] [basic_logger] [debug] In Component Constructor
+[2020-10-15 16:03:10.195] [basic_logger] [debug] In HeaderComponent Constructor
+[2020-10-15 16:03:10.957] [basic_logger] [debug] In AppComponent Destructor
+[2020-10-15 16:03:10.957] [basic_logger] [debug] In Component Destructor
+[2020-10-15 16:03:10.957] [basic_logger] [debug] In Component Destructor
+[2020-10-15 16:03:10.957] [basic_logger] [debug] In Component Destructor
+[2020-10-15 16:03:52.861] [basic_logger] [debug] In main()
+[2020-10-15 16:03:52.861] [basic_logger] [debug] In Runner.run()
+[2020-10-15 16:03:52.862] [basic_logger] [debug] In Component Constructor
+[2020-10-15 16:03:52.863] [basic_logger] [debug] In AppComponent Constructor
+[2020-10-15 16:03:52.863] [basic_logger] [debug] In Component Constructor
+[2020-10-15 16:03:52.863] [basic_logger] [debug] In HeaderComponent Constructor
+[2020-10-15 16:05:50.492] [basic_logger] [debug] In AppComponent Destructor
+[2020-10-15 16:05:50.492] [basic_logger] [debug] In Component Destructor
+[2020-10-15 16:05:50.492] [basic_logger] [debug] In Component Destructor
+[2020-10-15 16:05:50.492] [basic_logger] [debug] In Component Destructor
+[2020-10-16 14:51:43.460] [basic_logger] [debug] In main()
+[2020-10-16 14:51:43.460] [basic_logger] [debug] In Runner.run()
+[2020-10-16 14:51:43.461] [basic_logger] [debug] In Component Constructor
+[2020-10-16 14:51:43.461] [basic_logger] [debug] In AppComponent Constructor
+[2020-10-16 14:51:43.461] [basic_logger] [debug] In Component Constructor
+[2020-10-16 14:51:43.462] [basic_logger] [debug] In HeaderComponent Constructor
+[2020-10-16 14:51:44.115] [basic_logger] [debug] In AppComponent Destructor
+[2020-10-16 14:51:44.115] [basic_logger] [debug] In Component Destructor
+[2020-10-16 14:51:44.115] [basic_logger] [debug] In Component Destructor
+[2020-10-16 14:51:44.115] [basic_logger] [debug] In Component Destructor
+[2020-10-16 16:16:20.896] [basic_logger] [debug] In main()
+[2020-10-16 16:16:20.896] [basic_logger] [debug] In Runner.run()
+[2020-10-16 16:16:20.899] [basic_logger] [debug] In Component Constructor
+[2020-10-16 16:16:20.899] [basic_logger] [debug] In AppComponent Constructor
+[2020-10-16 16:16:20.899] [basic_logger] [debug] In Component Constructor
+[2020-10-16 16:16:20.899] [basic_logger] [debug] In HeaderComponent Constructor
+[2020-10-16 16:16:21.714] [basic_logger] [debug] In AppComponent Destructor
+[2020-10-16 16:16:21.714] [basic_logger] [debug] In Component Destructor
+[2020-10-16 16:16:21.714] [basic_logger] [debug] In Component Destructor
+[2020-10-16 16:16:21.714] [basic_logger] [debug] In Component Destructor
+[2020-10-16 16:17:40.840] [basic_logger] [debug] In main()
+[2020-10-16 16:17:40.840] [basic_logger] [debug] In Runner.run()
+[2020-10-16 16:17:40.841] [basic_logger] [debug] In Component Constructor
+[2020-10-16 16:17:40.841] [basic_logger] [debug] In AppComponent Constructor
+[2020-10-16 16:17:40.841] [basic_logger] [debug] In Component Constructor
+[2020-10-16 16:17:40.842] [basic_logger] [debug] In HeaderComponent Constructor
+[2020-10-16 16:17:41.926] [basic_logger] [debug] In AppComponent Destructor
+[2020-10-16 16:17:41.926] [basic_logger] [debug] In Component Destructor
+[2020-10-16 16:17:41.926] [basic_logger] [debug] In Component Destructor
+[2020-10-16 16:17:41.926] [basic_logger] [debug] In Component Destructor
+[2020-10-16 16:45:18.906] [basic_logger] [debug] In main()
+[2020-10-16 16:45:18.906] [basic_logger] [debug] In Runner.run()
+[2020-10-16 16:45:18.907] [basic_logger] [debug] In Component Constructor
+[2020-10-16 16:45:18.907] [basic_logger] [debug] In AppComponent Constructor
+[2020-10-16 16:45:18.907] [basic_logger] [debug] In Component Constructor
+[2020-10-16 16:45:18.907] [basic_logger] [debug] In HeaderComponent Constructor
+[2020-10-16 16:45:19.660] [basic_logger] [debug] In AppComponent Destructor
+[2020-10-16 16:45:19.660] [basic_logger] [debug] In Component Destructor
+[2020-10-16 16:45:19.660] [basic_logger] [debug] In Component Destructor
+[2020-10-16 16:45:19.660] [basic_logger] [debug] In Component Destructor
+[2020-10-16 16:56:35.848] [basic_logger] [debug] In main()
+[2020-10-16 16:56:35.848] [basic_logger] [debug] In Runner.run()
+[2020-10-16 16:56:35.848] [basic_logger] [debug] In Component Constructor
+[2020-10-16 16:56:35.848] [basic_logger] [debug] In AppComponent Constructor
+[2020-10-16 16:56:35.848] [basic_logger] [debug] In Component Constructor
+[2020-10-16 16:56:35.848] [basic_logger] [debug] In HeaderComponent Constructor
+[2020-10-16 16:56:36.495] [basic_logger] [debug] In AppComponent Destructor
+[2020-10-16 16:56:36.495] [basic_logger] [debug] In Component Destructor
+[2020-10-16 16:56:36.495] [basic_logger] [debug] In Component Destructor
+[2020-10-16 16:56:36.495] [basic_logger] [debug] In Component Destructor
+[2020-10-16 16:56:38.459] [basic_logger] [debug] In main()
+[2020-10-16 16:56:38.460] [basic_logger] [debug] In Runner.run()
+[2020-10-16 16:56:38.460] [basic_logger] [debug] In Component Constructor
+[2020-10-16 16:56:38.460] [basic_logger] [debug] In AppComponent Constructor
+[2020-10-16 16:56:38.460] [basic_logger] [debug] In Component Constructor
+[2020-10-16 16:56:38.460] [basic_logger] [debug] In HeaderComponent Constructor
+[2020-10-16 16:56:39.154] [basic_logger] [debug] In AppComponent Destructor
+[2020-10-16 16:56:39.154] [basic_logger] [debug] In Component Destructor
+[2020-10-16 16:56:39.154] [basic_logger] [debug] In Component Destructor
+[2020-10-16 16:56:39.154] [basic_logger] [debug] In Component Destructor
+[2020-10-16 17:57:45.597] [basic_logger] [debug] In main()
+[2020-10-16 17:57:45.597] [basic_logger] [debug] In Runner.run()
+[2020-10-16 17:57:45.597] [basic_logger] [debug] In Component Constructor
+[2020-10-16 17:57:45.597] [basic_logger] [debug] In AppComponent Constructor
+[2020-10-16 17:57:45.597] [basic_logger] [debug] In Component Constructor
+[2020-10-16 17:57:45.597] [basic_logger] [debug] In HeaderComponent Constructor
+[2020-10-16 17:57:46.483] [basic_logger] [debug] In AppComponent Destructor
+[2020-10-16 17:57:46.483] [basic_logger] [debug] In Component Destructor
+[2020-10-16 17:57:46.483] [basic_logger] [debug] In Component Destructor
+[2020-10-16 17:57:46.483] [basic_logger] [debug] In Component Destructor
