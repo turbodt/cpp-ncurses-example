@@ -28,7 +28,7 @@ namespace app {
       this->position += *(this->parent->get_position());
     }
     this->size = {0,0};
-    this->start();
+    this->initialize();
   }
   Component::Component(Component * const parent, Position position) {
     logging::logger->debug("In Component Constructor");
@@ -38,7 +38,7 @@ namespace app {
       this->position += *(this->parent->get_position());
     }
     this->size = {0,0};
-    this->start();
+    this->initialize();
   }
   Component::Component(Component * const parent, Size size) {
     logging::logger->debug("In Component Constructor");
@@ -48,7 +48,7 @@ namespace app {
       this->position += *(this->parent->get_position());
     }
     this->size = size;
-    this->start();
+    this->initialize();
   }
   Component::Component(Component * const parent, Position position, Size size) {
     logging::logger->debug("In Component Constructor");
@@ -58,7 +58,7 @@ namespace app {
       this->position += *(this->parent->get_position());
     }
     this->size = size;
-    this->start();
+    this->initialize();
   }
 
   Component::~Component() {
@@ -74,14 +74,17 @@ namespace app {
     return &(this->size);
   }
 
-  Component * Component::start() {
+  Controller * const Component::get_controller() {
+    return this->controller;
+  }
+
+  Component * Component::initialize() {
      this->window = newwin(
         this->size.rows,
         this->size.cols,
         this->position.y,
         this->position.x
     );
-    refresh();
     return this;
   }
 

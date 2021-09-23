@@ -21,13 +21,16 @@ namespace app {
     int rows, cols;
   };
 
+  class Controller;
+
   class Component {
     protected:
       WINDOW * window;
+      Controller * controller = nullptr;
       Component * parent = nullptr;
       Size size;
       Position position;
-      Component * start();
+      Component * initialize();
 
     public:
       Component(Component * const parent);
@@ -37,6 +40,7 @@ namespace app {
       ~Component();
       Size const * const get_size() const;
       Position const * const get_position() const;
+      Controller * const get_controller();
 
       Component * render();
   };

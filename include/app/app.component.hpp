@@ -4,17 +4,17 @@
 #include<future>
 #include<ncurses.h>
 #include<string>
-#include<logging.hpp>
 #include<app/base/component.hpp>
+#include<app/app.controller.hpp>
 #include<app/header.component.hpp>
 
 namespace app {
-  class Runner;
   namespace main {
 
     class AppComponent : public Component {
       protected:
-        Runner * runner;
+        AppController * controller = nullptr;
+
         std::string title = "My awesome C++ App";
         HeaderComponent * header;
 
